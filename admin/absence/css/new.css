@@ -1,0 +1,122 @@
+.inputs{
+    border-radius: 2em;
+    text-align: center;
+    font-size: 16px;
+    color: #a0a0a0;
+    width: 13em;
+}
+.submitaver{
+    margin-left: 35em;
+    border: 2px solid #ffffff00;
+    border-radius: 20px;
+    padding: 5px;
+    background: #1b55e2;
+    padding-right: 1.5em;
+    padding-left: 1.5em;
+    box-shadow: 0 0 0 0.5rem rgb(197 197 197 / 12%);
+    color: white;
+}
+.telechargerfichier{
+    margin-left: 1em;
+    border: 2px solid #ffffff00;
+    border-radius: 20px;
+    padding: 5px;
+    background: #1b55e2;
+    padding-right: 1.5em;
+    padding-left: 1.5em;
+    box-shadow: 0 0 0 0.5rem rgb(197 197 197 / 12%);
+    color: white;
+}
+.telechargerfichier:hover{
+    background: #dc5414;
+}
+.buttonabc{
+    background: #a0a3ec; 
+    margin-left: -15em; 
+    margin-right: 55em;
+    border: 2px solid #ffffff00;
+    border-radius: 20px;
+    padding-right: 1.5em;
+    padding-left: 1.5em;
+    padding: 5px;
+    box-shadow: 0 0 0 0.5rem rgb(197 197 197 / 12%);
+    color: white;
+    width: 12em;
+}
+.buttonabc:hover{
+    background: #787bbd;
+}
+
+
+
+.submitjustification{
+    border: 2px solid #ffffff00;
+    border-radius: 20px;
+    padding: 5px;
+    background: #d5d5d5;
+    padding-right: 1.5em;
+    padding-left: 1.5em;
+    box-shadow: 0 0 0 0.5rem rgb(197 197 197 / 12%);
+    margin-left: 2em;
+}
+.submitjustification:hover{
+    background: #1b55e2;
+    color: white;
+}
+
+.buttonfiche{
+    background: #a0a3ec;
+    margin-left: 2em;
+    border: 2px solid #ffffff00;
+    border-radius: 20px;
+    padding: 5px;
+    padding-right: 1.5em;
+    padding-left: 1.5em;
+    box-shadow: 0 0 0 0.5rem rgb(197 197 197 / 12%);
+}
+.buttonfiche:hover{
+    background: #787bbd;
+}
+.buttonabc{
+    background: #a0a3ec; 
+    margin-left: 0em; 
+    margin-right: 55em;
+    border: 2px solid #ffffff00;
+    border-radius: 20px;
+    padding-right: 1.5em;
+    padding-left: 1.5em;
+    padding: 5px;
+    box-shadow: 0 0 0 0.5rem rgb(197 197 197 / 12%);
+    color: white;
+    width: 12em;
+}
+.buttonabc:hover{
+    background: #787bbd;
+}
+.ajoutabsence{
+    margin-left: 28em;
+    border: 2px solid #ffffff00;
+    border-radius: 20px;
+    padding: 10px;
+    width: 18em;
+    background: #1b55e2;
+    padding-right: 1.5em;
+    padding-left: 1.5em;
+    box-shadow: 0 0 0 0.5rem rgb(197 197 197 / 12%);
+}
+.ajoutabsence:hover{
+    background: #dc5414;
+}
+.buttoninajout{
+        background: #a0a3ec;
+        margin-left: 69em;
+        border: 2px solid #ffffff00;
+        border-radius: 20px;
+        padding: 5px;
+        padding-right: 1.5em;
+        padding-left: 1.5em;
+        box-shadow: 0 0 0 0.5rem rgb(197 197 197 / 12%);
+}
+.buttoninajout:hover{
+    background: #787bbd;
+}

@@ -1,0 +1,113 @@
+
+    *{
+        margin: 0px;
+        padding: 0px;
+        box-sizing:  border-box
+      }
+
+
+
+.frm{
+    position: absolute;
+    top:40%;
+    left: 48%;
+    transform: translate(-50%,-50%);
+	box-sizing: border-box;
+	background-color:rgba(0,0,0,0.5);
+   /* background-color:rgb(164, 236, 236);*/
+    padding: 50px;
+    padding-top: 50px;
+    margin: 113px;
+    border-radius: 15px;
+    color: #000;
+    border: 1px solid #000000;
+    box-shadow: 0 7px 12px rgba(0,0,0,0.15);
+    transition: box-shadow 0.3s ease-in-out;
+   
+
+
+   
+	/*	background-image: url("imgs/education.png");
+		background: center;
+				
+	   position: relative;
+		top:45%;  
+		left: 34%;
+		transform: translate(-50%,-50%);
+		box-sizing: border-box;
+		background-color:rgba(0,0,0,0.5);
+		padding: 50px;
+		padding-top: 50px;
+		margin: 80px;
+		border-radius: 15px;
+		border: 1px solid #000;
+		
+	
+			margin: 151px;
+			padding-top: 7px;
+			padding-left: 80px;
+			margin-left:100px;*/
+		}
+
+        
+input{
+    margin-left: 0px; 
+    padding-left: 0px;
+	display: flex;
+	border-radius: 7px;
+    
+}
+
+select{
+	border-radius:7px;
+}
+
+/* label{
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;   font-family: 'Source Sans Pro', sans-serif;
+	font-weight: 600;
+	font-size: 1em;
+	line-height: 1em;
+	color: #000;
+    display: flex;
+    
+}*/
+ h3{
+	/*font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: 40px;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-weight: 600;
+			font-size: 1em;
+			line-height: 1em;
+    color:#000; */
+    padding-bottom: 15px;
+    padding-top: 0px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 1em;
+    font-weight: bold;
+
+
+}
+#but{
+	margin-top:27px ;
+    margin-left:177px ;
+    display: flex;
+	border: 1px solid #f8b739;
+	padding: 7px;
+	color: rgb(0, 0, 0);
+	background-color: #fecc27;
+	/*background: rgb(97, 107, 243);*/
+	border-radius: 7px;
+	transition: all 0.5s;
+	font-size: 20px;
+}
+/*#but:hover{
+	border: 1px solid #444;
+	padding: 15px;
+	color: #444;
+	background: #ddd;
+	border-radius: 5px;
+	transition: all 0.5s;
+    font-size: 20px;
+}*/
+

@@ -1,0 +1,49 @@
+@import url('main.css');
+@import url('../../plugins/perfect-scrollbar/perfect-scrollbar.css');
+@import url('structure.css');
+/*
+    Importing highlight.js CSS code 
+
+    Just for demo purpose only
+	
+	@Note:-  monokai-sublime.css stylesheet is for highliting the code;
+
+*/
+@import '../../plugins/highlight/styles/monokai-sublime.css';
+.inputs{
+    border-radius: 2em;
+    text-align: center;
+    font-size: 16px;
+    color: #a0a0a0;
+    width: 13em;
+}
+.submitaver{
+    margin-left: 1em;
+    border: 2px solid #ffffff00;
+    border-radius: 20px;
+    padding: 5px;
+    background: #1b55e2;
+    padding-right: 1.5em;
+    padding-left: 1.5em;
+    box-shadow: 0 0 0 0.5rem rgb(197 197 197 / 12%);
+    color: white;
+}
+.submitaver:hover{
+    background: #dc5414;
+}
+.buttonabc{
+    background: #a0a3ec; 
+    margin-left: -15em; 
+    margin-right: 55em;
+    border: 2px solid #ffffff00;
+    border-radius: 20px;
+    padding-right: 1.5em;
+    padding-left: 1.5em;
+    padding: 5px;
+    box-shadow: 0 0 0 0.5rem rgb(197 197 197 / 12%);
+    color: white;
+    width: 12em;
+}
+.buttonabc:hover{
+    background: #787bbd;
+}
